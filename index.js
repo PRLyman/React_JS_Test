@@ -118,3 +118,5 @@ function calculateWinner(squares) {
   }
   return null;
 }
+
+//Comment test for branching in GitHub.
